@@ -1,0 +1,10 @@
+C:\Users\Kiot\source\repos\testform\testform\bin\Debug\testform.exe.config
+C:\Users\Kiot\source\repos\testform\testform\bin\Debug\testform.exe
+C:\Users\Kiot\source\repos\testform\testform\bin\Debug\testform.pdb
+C:\Users\Kiot\source\repos\testform\testform\obj\Debug\testform.csproj.AssemblyReference.cache
+C:\Users\Kiot\source\repos\testform\testform\obj\Debug\testform.Form1.resources
+C:\Users\Kiot\source\repos\testform\testform\obj\Debug\testform.Properties.Resources.resources
+C:\Users\Kiot\source\repos\testform\testform\obj\Debug\testform.csproj.GenerateResource.cache
+C:\Users\Kiot\source\repos\testform\testform\obj\Debug\testform.csproj.CoreCompileInputs.cache
+C:\Users\Kiot\source\repos\testform\testform\obj\Debug\testform.exe
+C:\Users\Kiot\source\repos\testform\testform\obj\Debug\testform.pdb
